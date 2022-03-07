@@ -1,5 +1,13 @@
 # Situación de Vivienda Buenos Aires Power BI.
-Dashboard interactivo situación de vivienda buenos aires.
+Este fue un proyecto para el curso de Data Analyst de coderhouse, donde se recolectó, analizó y se presentó un dashboard interactivo con información sobre la situación de vivienda y calidad de vida de la ciudad de Buenos Aires.
 
-Avaliable on:
-<iframe title="Proyecto Final - Carlos Alfonso Arbelaéz Acevedo y Catalina Baranda - Portada" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNjkyMTYxYWEtNmI5Yi00MjA1LThhZmItYzczMGM5MDY0OTEzIiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+![](Imagenes/Portada.JPG)
+![](Imagenes/Pag1.JPG)
+![](Imagenes/Pag1_maps.JPG)
+![](Imagenes/Pag2.JPG)
+![](Imagenes/Pag3.JPG)
+
+Disponible en:
+https://app.powerbi.com/view?r=eyJrIjoiNjkyMTYxYWEtNmI5Yi00MjA1LThhZmItYzczMGM5MDY0OTEzIiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9&pageName=ReportSection19d3a4e0cfcac9bab77f
+Avaliable on: https://app.powerbi.com/view?r=eyJrIjoiNjkyMTYxYWEtNmI5Yi00MjA1LThhZmItYzczMGM5MDY0OTEzIiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9&pageName=ReportSection19d3a4e0cfcac9bab77f
+
