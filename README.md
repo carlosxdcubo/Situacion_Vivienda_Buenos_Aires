@@ -9,5 +9,4 @@ Este fue un proyecto para el curso de Data Analyst de coderhouse, donde se recol
 
 Disponible en:
 https://app.powerbi.com/view?r=eyJrIjoiNjkyMTYxYWEtNmI5Yi00MjA1LThhZmItYzczMGM5MDY0OTEzIiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9&pageName=ReportSection19d3a4e0cfcac9bab77f
-Avaliable on: https://app.powerbi.com/view?r=eyJrIjoiNjkyMTYxYWEtNmI5Yi00MjA1LThhZmItYzczMGM5MDY0OTEzIiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9&pageName=ReportSection19d3a4e0cfcac9bab77f
 
